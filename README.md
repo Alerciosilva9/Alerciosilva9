@@ -55,10 +55,10 @@
 # Meus Certificados :scroll:
 - <a href="https://www.dio.me/certificate/CACF6F1C/share">Santander Bootcamp 2023 - Fullstack Java + Angular (115 horas)- DIO</a>
 - <a href="https://www.dio.me/certificate/E1804905/share">TQI Kotlin - Backend Developer (112 horas) - BootCamp - DIO</a>
-- <a href="">Java Fundamentos (60 horas) - Nano Course. - FIAP</a>
+- <a href="https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/33457/549f20ae60c2aee7fe0171a369e87323/certificado.png">Java Fundamentos (60 horas) - Nano Course. - FIAP</a>
 - <a href="https://www.dio.me/certificate/736076DB/share">Descubra a Nuvem AWS – LocalizaLabs - Bootcamp - DIO</a>
 - <a href="https://www.dio.me/certificate/68EEDB16/share">Linux do Zero (40 horas) - BootCamp. - DIO</a>
-- <a href="">Inteligência artificial e computacional (80 horas)- Nano Course- FIAP</a>
+- <a href="https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/48559/395fe2e395a5bf969788b40f4261cb56/certificado.png">Inteligência artificial e computacional (80 horas)- Nano Course- FIAP</a>
 
 
 
