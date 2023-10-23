@@ -52,6 +52,17 @@
 - Processamento de Linguagem Natural
 - DevOps
 
+# Meus Certificados :scroll:
+- <a href="https://www.dio.me/certificate/CACF6F1C/share">Santander Bootcamp 2023 - Fullstack Java + Angular (115 horas)- DIO</a>
+- <a href="https://www.dio.me/certificate/E1804905/share">TQI Kotlin - Backend Developer (112 horas) - BootCamp - DIO</a>
+- <a href="">Java Fundamentos (60 horas) - Nano Course. - FIAP</a>
+- <a href="https://www.dio.me/certificate/736076DB/share">Descubra a Nuvem AWS – LocalizaLabs - Bootcamp - DIO</a>
+- <a href="https://www.dio.me/certificate/68EEDB16/share">Linux do Zero (40 horas) - BootCamp. - DIO</a>
+- <a href="">Inteligência artificial e computacional (80 horas)- Nano Course- FIAP</a>
+
+
+
+
 # Minhas Habilidades ‍💻
 
 
@@ -69,7 +80,7 @@
 <!--KOTLIN-->
 <code><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png"></code>
 <!--C-->
-<code><img height="45" src=""></code>
+<code><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917"></code>
 <!--HTML-->
 <code><img height="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png"></code>
 <!--CSS-->
