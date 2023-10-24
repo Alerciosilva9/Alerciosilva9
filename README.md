@@ -70,27 +70,28 @@
 ### Linguagens e Frameworks :computer:
 <p>
 <!--JAVA-->
-<code><img height="45" src="https://www.svgrepo.com/show/184143/java.svg"></code> 
+<code><img height="45" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></code> 
 <!--SPRING-->
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code> 
-<!--PYTHON-->
-<code><img height="45" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
+<code><img height="45" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></code> <br>
+<!--PYTHON--> 
+<code><img height="45" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></code>
 <!--DJANGO-->
-<code><img height="45" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"></code>
+<code><img height="45" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></code><br>
 <!--KOTLIN-->
-<code><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png"></code>
+<code><img height="45" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></code>
 <!--C-->
-<code><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917"></code>
+<code><img height="45" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code><br>
 <!--HTML-->
-<code><img height="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png"></code>
+<code><img height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 <!--CSS-->
-<code><img height="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"></code>
-<!--JAVASCRIPT->
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
+<code><img height="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
+<!--JAVASCRIPT-->
+<code><img height="40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+<code><img height="45" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
 <!--ANGULAR-->
-<code><img height="45" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"></code>
+<code><img height="45" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></code>
 <!--VUEJS-->
-<code><img height="45" src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png"></code>
+<code><img height="45" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></code>
 
 
 
