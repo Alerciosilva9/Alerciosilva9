@@ -131,4 +131,4 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=Alerciosilva9)
+https://komarev.com/ghpvc/?username=Alerciosilva9
